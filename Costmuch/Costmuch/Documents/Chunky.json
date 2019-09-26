@@ -1,0 +1,8 @@
+﻿{
+  "id": "foo",
+  "PartitionKey": "bar",
+  "a": "a",
+  "b": "b",
+  "c": "c",
+  "d": "d"
+}
